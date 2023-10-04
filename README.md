@@ -101,3 +101,4 @@ And the courses index page also shows residents per course in alphabetical order
       "- Dr. Seth Hazlitt"
       )
 ```
+# cabot_cove
